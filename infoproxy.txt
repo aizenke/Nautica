@@ -34,7 +34,9 @@
 35.212.233.187,443,US,Google Cloud
 35.212.138.220,443,US,Google Cloud
 34.83.245.149,443,US,Google Cloud
-
+4.255.56.137,443,US,Microsoft Azure
+20.127.201.36,443,US,Microsoft Azure
+4.255.56.138,443,US,Microsoft Azure
 
 
 

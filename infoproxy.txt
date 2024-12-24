@@ -14,3 +14,10 @@
 210.16.65.149,443,SG,SHOCK-SG
 8.219.211.170,443,SG,Alibaba Cloud (Singapore) Private Limited
 8.222.165.104,443,SG,Alibaba Cloud (Singapore) Private Limited
+175.41.148.129,443,SG,Amazon Web Services, Elastic Compute Cloud, EC2, SG
+
+
+
+
+
+

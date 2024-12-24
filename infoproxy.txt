@@ -22,6 +22,7 @@
 188.253.125.59,443,SG,Akari Networks Singapore
 188.253.125.226,443,SG,Akari Networks Singapore
 8.215.35.68,80,ID,Alibaba Cloud (Singapore) Private Limited
+52.38.3.117,443,US,Amazon Technologies Inc
 
 
 

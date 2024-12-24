@@ -30,7 +30,7 @@
 34.212.82.22,443,US,Amazon Technologies Inc
 34.219.166.126,443,US,Amazon Technologies Inc
 34.220.181.38,443,US,Amazon Technologies Inc
-
+35.202.158.120,443,US,Google Cloud
 
 
 

@@ -15,6 +15,12 @@
 8.219.211.170,443,SG,Alibaba Cloud (Singapore) Private Limited
 8.222.165.104,443,SG,Alibaba Cloud (Singapore) Private Limited
 175.41.148.129,443,SG,Amazon Web Services, Elastic Compute Cloud, EC2, SG
+178.128.80.43,443,SG,DigitalOcean, LLC
+143.198.213.197,443,SG,DigitalOcean, LLC
+146.190.111.165,443,SG,DigitalOcean, LLC
+167.99.73.22,443,SG,DigitalOcean, LLC
+
+
 
 
 

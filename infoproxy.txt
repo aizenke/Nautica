@@ -28,6 +28,11 @@
 188.253.125.59,443,SG,Akari Networks Singapore
 188.253.125.226,443,SG,Akari Networks Singapore
 8.215.35.68,80,ID,Alibaba Cloud (Singapore) Private Limited
+45.77.130.245,443,JP,Vultr Holdings
+45.76.198.248,443,JP,Vultr Holdings
+64.176.42.6,443,JP,Vultr Holdings
+45.32.49.72,443,JP,Vultr Holdings
+
 52.38.3.117,443,US,Amazon Technologies Inc
 52.88.19.63,443,US,Amazon Technologies Inc
 3.12.71.127,443,US,Amazon Technologies Inc

@@ -33,6 +33,7 @@
 35.202.158.120,443,US,Google Cloud
 35.212.233.187,443,US,Google Cloud
 35.212.138.220,443,US,Google Cloud
+34.83.245.149,443,US,Google Cloud
 
 
 

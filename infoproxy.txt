@@ -2,9 +2,9 @@
 3.1.94.232,443,SG,Amazon Data Services Singapore
 13.250.38.94,443,SG,Amazon Data Services Singapore
 45.77.36.40,443,SG,Vultr Holdings
-51.79.254.182,443,OVH Singapore PTE. LTD
-15.235.162.49,443,OVH Singapore PTE. LTD
-51.79.158.126,443,OVH Singapore PTE. LTD
+51.79.254.182,443,SG,OVH Singapore PTE. LTD
+15.235.162.49,443,SG,OVH Singapore PTE. LTD
+51.79.158.126,443,SG,OVH Singapore PTE. LTD
 
 
 

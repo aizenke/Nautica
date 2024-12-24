@@ -33,7 +33,6 @@
 45.76.198.248,443,JP,Vultr Holdings
 64.176.42.6,443,JP,Vultr Holdings
 45.32.49.72,443,JP,Vultr Holdings
-172.104.80.235,443,JP,Linode
 52.38.3.117,443,US,Amazon Technologies Inc
 52.88.19.63,443,US,Amazon Technologies Inc
 3.12.71.127,443,US,Amazon Technologies Inc

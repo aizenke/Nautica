@@ -1,6 +1,7 @@
 52.221.204.184,443,SG,Amazon Singapore
 3.1.94.232,443,SG,Amazon Singapore
 13.250.38.94,443,SG,Amazon Singapore
+45.32.105.53,443,SG,Vultr Holdings
 45.77.36.40,443,SG,Vultr Holdings
 51.79.254.182,443,SG,OVH Singapore PTE. LTD
 15.235.162.49,443,SG,OVH Singapore PTE. LTD

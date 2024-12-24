@@ -48,7 +48,7 @@
 172.235.32.226,443,US,Linode
 50.116.45.53,443,US,Linode
 45.79.200.221,443,US,Linode
-47.239.198.1,443,HKG,Alibaba Cloud LLC
+47.239.198.1,443,HK,Alibaba Cloud LLC
 
 
 

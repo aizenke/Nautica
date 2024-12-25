@@ -1,3 +1,4 @@
+103.170.72.214,8443,US,ANYCAST CoreNET Inc
 52.221.204.184,443,SG,Amazon Singapore
 3.1.94.232,443,SG,Amazon Singapore
 13.250.38.94,443,SG,Amazon Singapore

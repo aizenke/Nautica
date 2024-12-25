@@ -29,6 +29,7 @@
 188.253.125.59,443,SG,Akari Networks Singapore
 188.253.125.226,443,SG,Akari Networks Singapore
 50.114.5.107,443,SG,Ace Data Centers
+165.154.29.90,443,SG,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED
 8.215.35.68,80,ID,Alibaba Cloud (Singapore) Private Limited
 45.77.130.245,443,JP,Vultr Holdings
 45.76.198.248,443,JP,Vultr Holdings

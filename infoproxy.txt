@@ -71,6 +71,10 @@
 129.159.22.4,443,IN,Oracle Corporation
 129.154.46.115,443,IN,Oracle Corporation
 64.110.67.0,50000,KR,Oracle Corporation
+146.56.162.25,443,KR,Oracle Corporation
+146.56.101.141,443,KR,Oracle Corporation
+146.56.177.247,8080,KR,Oracle Corporation
+
 
 
 

@@ -35,6 +35,7 @@
 45.76.198.248,443,JP,Vultr Holdings
 64.176.42.6,443,JP,Vultr Holdings
 45.32.49.72,443,JP,Vultr Holdings
+152.69.199.70,8443,JP,Oracle Corporation
 52.38.3.117,443,US,Amazon Technologies Inc
 52.88.19.63,443,US,Amazon Technologies Inc
 3.12.71.127,443,US,Amazon Technologies Inc
@@ -66,7 +67,9 @@
 156.254.114.186,443,HK,StepGo Limited
 156.254.115.2,443,HK,StepGo Limited
 159.138.4.222,443,HK,Huawei HongKong Clouds
-
+141.148.220.141,443,IN,Oracle Corporation
+129.159.22.4,443,IN,Oracle Corporation
+129.154.46.115,443,IN,Oracle Corporation
 
 
 

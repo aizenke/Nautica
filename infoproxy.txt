@@ -1,4 +1,3 @@
-103.170.72.214,8443,US,ANYCAST CoreNET Inc
 52.221.204.184,443,SG,Amazon Singapore
 3.1.94.232,443,SG,Amazon Singapore
 13.250.38.94,443,SG,Amazon Singapore
@@ -42,6 +41,7 @@
 152.69.199.70,8443,JP,Oracle Corporation
 137.220.181.162,443,JP,CTG Server Ltd
 219.111.17.202,443,JP,Excite Japan
+103.170.72.214,8443,US,ANYCAST CoreNET Inc
 52.38.3.117,443,US,Amazon Technologies Inc
 52.88.19.63,443,US,Amazon Technologies Inc
 3.12.71.127,443,US,Amazon Technologies Inc

@@ -1,4 +1,6 @@
 172.104.170.159,8443,SG,Akamai Connected Cloud
+139.162.48.174,10000,SG,Akamai Connected Cloud
+139.177.190.120,8443,SG,Akamai Connected Cloud
 52.221.204.184,443,SG,Amazon Singapore
 3.1.94.232,443,SG,Amazon Singapore
 13.250.38.94,443,SG,Amazon Singapore

@@ -43,6 +43,10 @@
 175.156.92.1,8443,SG,M1 Ltd
 175.156.128.188,8010,SG,M1 Ltd
 8.215.35.68,80,ID,Alibaba Cloud (Singapore) Private Limited
+
+54.249.135.43,443,SG,Amazon Singapore
+43.206.192.211,443,SG,Amazon Singapore
+
 45.77.130.245,443,JP,Vultr Holdings
 45.76.198.248,443,JP,Vultr Holdings
 64.176.42.6,443,JP,Vultr Holdings

@@ -1,3 +1,4 @@
+43.218.77.16,443,ID,Amazon Indonesia
 172.232.231.24,587,ID,Akamai Connected Cloud
 172.232.239.134,54,ID,Akamai Connected Cloud
 172.232.231.24,587,ID,Akamai Connected Cloud

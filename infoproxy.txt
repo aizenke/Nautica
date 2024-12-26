@@ -34,6 +34,7 @@
 143.198.213.197,443,SG,DigitalOcean LLC
 146.190.111.165,443,SG,DigitalOcean LLC
 167.99.73.22,443,SG,DigitalOcean LLC
+163.47.9.27,8443,SG,DigitalOcean LLC
 188.253.125.59,443,SG,Akari Networks Singapore
 188.253.125.226,443,SG,Akari Networks Singapore
 50.114.5.107,443,SG,Ace Data Centers
